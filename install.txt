@@ -1,3 +1,7 @@
 npx nuxi init (dir)
 npm install
 npm run dev
+
+
+use vite
+npm add --dev nuxt-vite

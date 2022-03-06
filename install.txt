@@ -5,3 +5,8 @@ npm run dev
 
 use vite
 npm add --dev nuxt-vite
+
+
+vue update
+npm install vue@
+npm install -g @vue/cli

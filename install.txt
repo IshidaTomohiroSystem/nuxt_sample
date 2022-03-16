@@ -10,3 +10,8 @@ npm add --dev nuxt-vite
 vue update
 npm install vue@
 npm install -g @vue/cli
+
+
+
+これでfirebase使用可能
+npm install firebase-admin
